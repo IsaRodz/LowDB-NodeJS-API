@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "b39c747f-4a22-434c-9094-9a44db9cc784",
+      "name": "Practice javascript",
+      "description": "I must become a master of JS"
+    },
+    {
+      "id": "f59072fb-3b60-4c96-9074-bccbb91b29ea",
+      "name": "Prepare class",
+      "description": "Prepare the class for the teenagers"
+    },
+    {
+      "id": "d5dcc357-909f-4625-b48f-c5f7f8a5ce5b",
+      "name": "Run and workout",
+      "description": "Run and workout at least 3 days at week"
+    }
+  ]
+}
